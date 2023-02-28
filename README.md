@@ -1,1 +1,1 @@
-# Jquery_finished
+Homework for Wednesday (01.03.2023)
